@@ -50,7 +50,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://forge.sigb.net/attachments/4845/pmb8.0.1.0.zip"
-    sha256 = "1a93e5f7c2f3537d096f4c20806502c70601ccc308eeb9d5190a4d589c42ea9a"
+    sha256 = "c3949d1f7848b9741f76c3a08881da6df1b4b4104578b05fb4ea8911fd2f013a"
 
     [resources.system_user]
 
